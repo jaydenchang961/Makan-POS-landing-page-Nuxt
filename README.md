@@ -1,0 +1,1 @@
+# Makan-POS-landing-page-Nuxt
